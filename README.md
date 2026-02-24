@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25530541/README.md)
 # MusicWithYou
 
 MusicWithYou je webová aplikace vytvořená pomocí Django frameworku, která funguje jako hudební streamovací platforma. Uživatelé si zde budou moci vytvořit účet a nahrávat vlastní hudební skladby. Při nahrávání skladby bude možné vyplnit název, popis, vybrat žánr a přidat vlastní cover obrázek.
