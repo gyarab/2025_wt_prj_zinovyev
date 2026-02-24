@@ -4,4 +4,4 @@ MusicWithYou je webová aplikace vytvořená pomocí Django frameworku, která f
 
 Každá skladba bude uložena v databázi společně s informacemi o autorovi, datu nahrání a počtu přehrání. Uživatelé budou moci přehrávat nejen svou hudbu, ale i skladby ostatních autorů. Součástí projektu bude také sledování statistik poslechnutí, aby autoři viděli, kolikrát byla jejich skladba přehrána.
 
-Cílem projektu je vytvořit moderní databázovou webovou aplikaci zaměřenou na sdílení a streamování hudby, BUDE F.
+Cílem projektu je vytvořit moderní databázovou webovou aplikaci zaměřenou na sdílení a streamování hudby, bude fungovat podobně jako služba Soundcloud.
