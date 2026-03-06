@@ -19,10 +19,10 @@ Součástí aplikace je také systém monetizace. Každé přehrání skladby ge
 Aplikace nabízí také několik typů subscription plánů. Uživatel si může vybrat mezi plány Free, Plus a Pro. Každý plán poskytuje různé funkce, například větší počet nahraných skladeb, detailnější statistiky nebo další výhody pro tvůrce obsahu.
 
 Databázová struktura aplikace tak zahrnuje entity jako uživatel, skladba, statistiky, subscription plán, balance účet a přehrání. Tyto entity spolu vzájemně souvisejí a vytvářejí komplexní systém pro správu hudebního obsahu a jeho monetizaci.
-## Application Structure
+## Wireframes
 
 ![Wireframes](photos/diagram.jpeg)
 
-## Page Wireframes
+## User Flow
 
 ![User Flow](photos/pages.jpeg)
