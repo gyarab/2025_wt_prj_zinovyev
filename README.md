@@ -6,7 +6,7 @@ Každá skladba bude uložena v databázi společně s informacemi o autorovi, d
 
 Cílem projektu je vytvořit moderní databázovou webovou aplikaci zaměřenou na sdílení a streamování hudby, bude fungovat podobně jako služba Soundcloud.
 
-# Odporný článek
+# Odborný článek
 
 Projekt MusicWithYou je webová a mobilní aplikace určená pro sdílení hudby mezi hudebními producenty a posluchači. Hlavním cílem aplikace je umožnit uživatelům jednoduše nahrávat vlastní hudbu, poslouchat skladby ostatních a zároveň sledovat statistiky poslechů a výdělky z přehrávání.
 
