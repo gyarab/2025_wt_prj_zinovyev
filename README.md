@@ -21,8 +21,8 @@ Aplikace nabízí také několik typů subscription plánů. Uživatel si může
 Databázová struktura aplikace tak zahrnuje entity jako uživatel, skladba, statistiky, subscription plán, balance účet a přehrání. Tyto entity spolu vzájemně souvisejí a vytvářejí komplexní systém pro správu hudebního obsahu a jeho monetizaci.
 ## Application Structure
 
-![Application Structure](photos/diagram.jpeg)
+![Wireframes](photos/diagram.jpeg)
 
 ## Page Wireframes
 
-![Page Layout](photos/pages.jpeg)
+![User Flow](photos/pages.jpeg)
