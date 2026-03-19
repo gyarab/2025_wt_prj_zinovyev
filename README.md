@@ -26,3 +26,7 @@ Databázová struktura aplikace tak zahrnuje entity jako uživatel, skladba, sta
 ## User Flow
 
 ![User Flow](photos/pages.jpeg)
+
+## E-R Diagram
+
+![User Flow](photos/IMG_9811.jpg)
