@@ -1,0 +1,40 @@
+# USERS
+- model: auth.user
+  pk: 1
+  fields:
+    username: admin
+    password: admin
+    is_superuser: true
+    is_staff: true
+    is_active: true
+    email: admin@musicwithyou.com
+
+- model: auth.user
+  pk: 2
+  fields:
+    username: travisfan
+    password: pbkdf2_sha256$600000$abc$hashedpassword123
+    is_superuser: false
+    is_staff: false
+    is_active: true
+    email: daniel.novak@email.com
+
+- model: auth.user
+  pk: 3
+  fields:
+    username: beatmaker01
+    password: pbkdf2_sha256$600000$abc$hashedpassword123
+    is_superuser: false
+    is_staff: false
+    is_active: true
+    email: lucie.svobodova@email.com
+
+- model: auth.user
+  pk: 4
+  fields:
+    username: chilllistener
+    password: pbkdf2_sha256$600000$abc$hashedpassword123
+    is_superuser: false
+    is_staff: false
+    is_active: true
+    email: martin.dvorak@email.com
